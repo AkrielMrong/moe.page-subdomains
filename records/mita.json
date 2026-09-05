@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "DiamondPie",
+    "email": "diamondpie@dpp.qzz.io"
+  },
+  "domain": "mita",
+  "records": {
+    "CNAME": [
+      "miside-intro.pages.dev"
+    ]
+  },
+  "proxied": false
+}
