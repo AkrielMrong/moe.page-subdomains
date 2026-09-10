@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Parsa0369",
+    "email": "my.ac2.in.l@gmail.com"
+  },
+  "domain": "catboy",
+  "records": {
+    "CNAME": "prime-no.vercel.app"
+  },
+  "proxied": false
+}
