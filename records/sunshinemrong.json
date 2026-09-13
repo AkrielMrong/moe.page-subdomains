@@ -1,4 +1,8 @@
 {
+  "owner": {
+    "username": "AkrielMrong",
+    "email": "marakworkshop@gmail.com"
+  },
   "domain": "sunshinemrong",
   "records": {
     "A": ["76.76.21.21"]
